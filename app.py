@@ -7,7 +7,7 @@ DB_CONFIG = {
     'host' : 'localhost',
     'user' : 'root',
     'password' : '',
-    'database' : 'flower_shop_68_1_db'
+    'database' : 'flower_shop_68_1'
 }
 
 app.config['SECRET_KEY'] = 'f1e568fwe48f7e54f8e4f63e1f6few548s'
